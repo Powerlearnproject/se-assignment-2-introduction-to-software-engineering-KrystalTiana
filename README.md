@@ -7,15 +7,19 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
+Answer: Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. 
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Answer: Traditional programming typically focuses on writing code to solve a specific problem or create a specific application, while software engineering involves the entire software development lifecycle from requirements gathering to deployment and maintenance.
+Software Development Life Cycle (SDLC): The software development lifecycle (SDLC) is the cost-effective and time-efficient process that development teams use to design and build high-quality software. 
 
-Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Explain the various phases of the Software Development Life Cycle.  The phases include requirements, design, implementation, testing, deployment, and maintenance. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
+Answer: Agile and Waterfall are two different management methodologies best suited for different types of projects.
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Requirements Engineering:
+Answer: When choosing between Agile and Waterfall, consider how involved the project owners or stakeholders will be in the project. Agile is better suited for projects where stakeholders are closely involved every step of the way. Waterfall is a more structured project management method and does not lend itself to the same type of flexibility.
+Requirements Engineering: Requirements Engineering ensures that the problem a client wants solved is clearly defined and the solution is both accurate and effective.
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Software Design Principles:
